@@ -8,7 +8,6 @@
 
 ####Tuition Team
 
-<img width=100 class="img-responsive" src="https://dl.dropboxusercontent.com/u/2068306/ict-skills-2014/logos/edel-profile.png">
 >Mr. Eamonn de Leastar (edeleastar@wit.ie)
 >Dr. Siobhan Drohan (sdrohan@wit.ie)
 >Dr. Brenda Mullally (bmullally@wit.ie)
@@ -25,5 +24,3 @@
 ####Timetable
 
 >Below is the current timetable for this module. Please make every effort to attend the lectures and labs. If for some reason you miss one or the other, you can see from the schedule below that each lecture runs twice in the week, and each lab three times. In exceptional circumstances you can come in to a lab/lecture that is not scheduled for your group of you miss out for some reason.
-
-<img width="800" src="https://dl.dropboxusercontent.com/u/2068306/web-dev-2014/timelable.png">
